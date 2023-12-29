@@ -6,10 +6,10 @@ This Flutter Trip App UI is a project developed as part of the 100 Days of Flutt
 
 <img src="assets/screenshot/one.png" height="500em" /><img src="assets/screenshot/two.png" height="500em" /><img src="assets/screenshot/three.png" height="500em" />
 
-
-## Development Setup
-Clone the repository and run the following commands:
-```
-flutter pub get
-flutter run
-```
+## Getting Started
+To run the Flutter Food Delivery App locally, follow these steps:
+1. Clone the repository: `git clone https://github.com/abitewaddisu/Flutter-Trip-App.git`
+2. Install Flutter and set up your development environment: [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
+3. Install project dependencies: `flutter pub get`
+4. Start an Android emulator or connect a physical device.
+5. Run the app: `flutter run`
